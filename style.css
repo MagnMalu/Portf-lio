@@ -1,21 +1,21 @@
-body{
+body {
     background-image:url('fundo-aquarela-com-listras-rosa.avif');
     background-repeat:repeat;
     background-size:auto;
 }
-.menu ul{
+.menu ul {
     display:flex;
     flex-direction:row;
     justify-content:space-evenly;
 }
-.menu h1{
+.menu h1 {
     display:flex;
     justify-content:center;
 }
 a{
     color:black
 }
-a:hover{
+a:hover {
     text-decoration:underline;
     color:pink
 }
